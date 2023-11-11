@@ -12,7 +12,7 @@
         {
             if (string.IsNullOrEmpty(name))
             {
-                throw new ArgumentNullException($"'{nameof(name)}' не может быть нулевым или пустым.", nameof(name));
+                throw new ArgumentNullException(nameof(name), $"'{nameof(name)}' не может быть нулевым или пустым.");
             }
             if (price < 0)
             {

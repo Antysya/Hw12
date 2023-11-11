@@ -1,4 +1,5 @@
-﻿namespace BlazorWASM.Model
+﻿using Models;
+namespace BlazorWASM.Model
 {
     public interface IProductCatalog
     {

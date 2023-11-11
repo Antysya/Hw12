@@ -1,4 +1,5 @@
 ﻿using BlazorWASM.Model;
+using Models;
 
 namespace BlazorWASM.Pages
 {

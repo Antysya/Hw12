@@ -1,4 +1,5 @@
-﻿using System.Threading;
+﻿using Models;
+using System.Threading;
 
 namespace BlazorWASM.Model
 {
